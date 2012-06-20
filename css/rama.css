@@ -2,9 +2,19 @@
 	border: 1px solid black;
 }
 
+.presentacion{
+	width: 1200px;
+	height: 900px;
+}
+
 .fases{
 	width: 500px;
 	height: 800px;
 	text-align:center;
 }
 
+.conclusion{
+	width: 1000px;
+	height: 800px;
+	text-align:center;
+}
