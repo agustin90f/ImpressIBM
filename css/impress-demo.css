@@ -136,13 +136,6 @@ a:focus {
     And then we hide the message, when support is detected in the browser.
 */
 
-.bordes{
-			border: 1px solid black;
-			width: 1000px;
-			height: 700px;
-		}
-
-
 .fallback-message {
     font-family: sans-serif;
     line-height: 1.3;
